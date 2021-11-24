@@ -21,9 +21,17 @@
             >
               tour and travel
             </h5>
+<<<<<<< HEAD
             <p class="card-text" style="font-size: 12px; color: #37784f">
               Bus tours, car hire, Camping, fishing and extreme watersports on
               the nile
+=======
+            <p
+              class="card-text text-start"
+              style="font-size: 12px; color: #37784f"
+            >
+              Bus tours, car hire, Camping etc.
+>>>>>>> 1291469f7062bfc78063bee7c41b20be4282666b
             </p>
           </div>
         </div>
@@ -48,7 +56,11 @@
               Agribusiness
             </h5>
             <p class="card-text" style="font-size: 12px; color: #37784f">
+<<<<<<< HEAD
               Exercitation veniam consequat sunt nostrud amet
+=======
+              Poultry, Pineapples, maize grain, Oranges
+>>>>>>> 1291469f7062bfc78063bee7c41b20be4282666b
             </p>
           </div>
         </div>
@@ -73,7 +85,11 @@
               Real Estate
             </h5>
             <p class="card-text" style="font-size: 12px; color: #37784f">
+<<<<<<< HEAD
               Exercitation veniam consequat sunt nostrud amet
+=======
+              Rental, Construction Project management
+>>>>>>> 1291469f7062bfc78063bee7c41b20be4282666b
             </p>
           </div>
         </div>
@@ -97,8 +113,16 @@
             >
               IT Services
             </h5>
+<<<<<<< HEAD
             <p class="card-text" style="font-size: 12px; color: #37784f">
               Exercitation veniam consequat sunt nostrud amet
+=======
+            <p
+              class="card-text text-start"
+              style="font-size: 12px; color: #37784f"
+            >
+              Turn key IT projects in Apps etc.
+>>>>>>> 1291469f7062bfc78063bee7c41b20be4282666b
             </p>
           </div>
         </div>
@@ -123,7 +147,11 @@
               Telecommunition
             </h5>
             <p class="card-text" style="font-size: 12px; color: #37784f">
+<<<<<<< HEAD
               Exercitation veniam consequat sunt nostrud amet
+=======
+              Turn key consultancy in Telecommunition
+>>>>>>> 1291469f7062bfc78063bee7c41b20be4282666b
             </p>
           </div>
         </div>
